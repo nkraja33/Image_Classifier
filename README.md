@@ -1,2 +1,2 @@
-# Image_Classifier
-Intro to ML
+# Project 2 -Image_Classifier
+
